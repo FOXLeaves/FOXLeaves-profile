@@ -16,26 +16,6 @@
 ## 你好，I'm FOXLeaves
 
 > ～小狐狸一位～
->
-> 喜欢把玩法规则、界面细节和一点点“霜月白狐”的气质，慢慢做成能玩、能看、能留下印象的作品。  
-> I enjoy turning gameplay ideas, UI details, and a moonlit arctic-fox vibe into projects that feel memorable.
-
-## 正在做 / Current Focus
-
-- 用 Java 做更有戏剧张力的 Minecraft 玩法和系统。
-- 把 `Paper`、`Fabric`、`Forge`、`NeoForge` 这些平台的体验尽量做齐。
-- 继续打磨带有个人风格的界面、视觉和创意项目。
-
-## 技术偏好 / Toolbox
-
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f8fafc" />
-  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-111827?style=for-the-badge&logo=gradle&logoColor=93c5fd" />
-  <img alt="Paper" src="https://img.shields.io/badge/Paper-172554?style=for-the-badge&logo=paper&logoColor=e0f2fe" />
-  <img alt="Fabric" src="https://img.shields.io/badge/Fabric-0b1120?style=for-the-badge&logo=fabric&logoColor=bfdbfe" />
-  <img alt="Forge" src="https://img.shields.io/badge/Forge-1e293b?style=for-the-badge&logo=curseforge&logoColor=f8fafc" />
-  <img alt="NeoForge" src="https://img.shields.io/badge/NeoForge-1d4ed8?style=for-the-badge&logo=modrinth&logoColor=f8fafc" />
-</p>
 
 ## 代表作 / Featured Project
 
@@ -48,8 +28,7 @@
   </a>
 </p>
 
-`TeamLifeBind` 是一个面向 Minecraft 的团队生存 PvP 玩法：当一名队友死亡时，整队都会被淘汰。  
-这个项目同时维护 `server (Bukkit/Spigot/Paper)`、`Fabric`、`Forge`、`NeoForge` 四个平台实现，把核心规则、语言内容和玩法流程统一起来。
+- 用 Java 做更有戏剧张力的 Minecraft 玩法和系统。
 
 ## GitHub 数据 / Stats
 
