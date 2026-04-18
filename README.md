@@ -13,7 +13,7 @@
   </a>
 </div>
 
-## 你好，I'm FOXLeaves
+## 你好，我是 FOXLeaves
 
 > ～小狐狸一位～
 
