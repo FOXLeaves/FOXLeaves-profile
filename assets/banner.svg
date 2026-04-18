@@ -1,0 +1,94 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">FOXLeaves profile banner</title>
+  <desc id="desc">A moonlit frost-blue banner with the text FOXLeaves and subtle fox-inspired curves.</desc>
+  <defs>
+    <linearGradient id="bg" x1="84" y1="34" x2="1184" y2="338" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#102A4C"/>
+      <stop offset="1" stop-color="#17396B"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="202" y1="64" x2="1004" y2="312" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CFF5FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="tail" x1="809" y1="114" x2="1067" y2="286" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0.15"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#D9F2FF" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="blurBig" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="32"/>
+    </filter>
+    <filter id="blurSmall" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#glow)"/>
+
+  <circle cx="182" cy="84" r="114" fill="#7DD3FC" fill-opacity="0.16" filter="url(#blurBig)"/>
+  <circle cx="1092" cy="78" r="88" fill="#C4B5FD" fill-opacity="0.12" filter="url(#blurBig)"/>
+  <circle cx="994" cy="214" r="96" fill="#60A5FA" fill-opacity="0.12" filter="url(#blurBig)"/>
+
+  <g opacity="0.95">
+    <circle cx="1036" cy="92" r="46" fill="#EEF6FF"/>
+    <circle cx="1052" cy="84" r="38" fill="#17396B"/>
+  </g>
+
+  <g fill="#E2F2FF" fill-opacity="0.65">
+    <circle cx="142" cy="70" r="2.5"/>
+    <circle cx="206" cy="52" r="1.8"/>
+    <circle cx="392" cy="88" r="1.6"/>
+    <circle cx="470" cy="58" r="2.2"/>
+    <circle cx="818" cy="54" r="1.7"/>
+    <circle cx="1138" cy="126" r="2.4"/>
+    <circle cx="1186" cy="88" r="1.9"/>
+    <circle cx="912" cy="148" r="1.6"/>
+  </g>
+
+  <g fill="#D9F2FF" fill-opacity="0.16">
+    <ellipse cx="102" cy="286" rx="128" ry="58"/>
+    <ellipse cx="306" cy="318" rx="182" ry="64"/>
+    <ellipse cx="576" cy="332" rx="240" ry="62"/>
+    <ellipse cx="900" cy="314" rx="218" ry="64"/>
+    <ellipse cx="1186" cy="292" rx="168" ry="56"/>
+  </g>
+
+  <path d="M829 259C873 211 936 184 1011 184C1069 184 1119 201 1158 232" stroke="url(#tail)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M854 277C908 230 967 210 1032 214C1075 216 1117 230 1150 255" stroke="#E0F2FE" stroke-opacity="0.24" stroke-width="8" stroke-linecap="round"/>
+  <path d="M887 294C932 264 980 252 1030 254C1055 255 1080 260 1106 270" stroke="#BAE6FD" stroke-opacity="0.18" stroke-width="4" stroke-linecap="round"/>
+
+  <g transform="translate(936 206) rotate(-18)">
+    <ellipse cx="0" cy="0" rx="18" ry="7" fill="#E0F2FE" fill-opacity="0.72"/>
+    <path d="M-2 -1C6 -19 26 -26 42 -18C24 -4 15 8 -2 -1Z" fill="#C7E6FF" fill-opacity="0.68"/>
+  </g>
+  <g transform="translate(1098 226) rotate(12)">
+    <ellipse cx="0" cy="0" rx="15" ry="6" fill="#E0F2FE" fill-opacity="0.5"/>
+    <path d="M-2 -1C5 -16 19 -22 31 -16C18 -3 10 6 -2 -1Z" fill="#C7E6FF" fill-opacity="0.48"/>
+  </g>
+
+  <g filter="url(#blurSmall)">
+    <circle cx="798" cy="118" r="22" fill="#DBF4FF" fill-opacity="0.22"/>
+    <circle cx="894" cy="78" r="18" fill="#DBF4FF" fill-opacity="0.18"/>
+  </g>
+
+  <text x="88" y="148" fill="#F8FBFF" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="2">
+    FOXLeaves
+  </text>
+  <text x="92" y="188" fill="#CDEBFF" font-family="Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="4">
+    MOONLIT ARCTIC FOX
+  </text>
+  <text x="92" y="236" fill="#E2F2FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">
+    Minecraft systems, creative code, and calm icy visuals.
+  </text>
+  <text x="92" y="274" fill="#A8D8FF" font-family="Consolas, 'Courier New', monospace" font-size="18">
+    Build worlds with frost, leaves, and a little moonlight.
+  </text>
+
+  <path d="M82 298H474" stroke="#D9F2FF" stroke-opacity="0.24" stroke-width="2"/>
+  <circle cx="490" cy="298" r="4" fill="#D9F2FF" fill-opacity="0.42"/>
+</svg>
