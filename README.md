@@ -28,7 +28,7 @@
   </a>
 </p>
 
-- 用 Java 做更有戏剧张力的 Minecraft 玩法和系统。
+- 这是一个更有戏剧张力的 Minecraft 玩法和系统。
 
 ## GitHub 数据 / Stats
 
