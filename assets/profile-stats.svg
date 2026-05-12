@@ -1,0 +1,43 @@
+<svg width="420" height="170" viewBox="0 0 420 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">FOXLeaves profile highlights</title>
+  <desc id="desc">A local SVG card with stable GitHub profile highlights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="420" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#102A4C"/>
+    </linearGradient>
+    <linearGradient id="line" x1="28" y1="36" x2="386" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#A7F3D0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="420" height="170" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="418" height="168" rx="15" stroke="#BAE6FD" stroke-opacity="0.18"/>
+  <path d="M0 128C63 108 123 113 179 132C244 154 323 153 420 116V170H0V128Z" fill="#7DD3FC" fill-opacity="0.08"/>
+
+  <text x="24" y="34" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">PROFILE HIGHLIGHTS</text>
+  <text x="24" y="66" fill="#F8FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">FOXLeaves</text>
+  <path d="M24 82H170" stroke="url(#line)" stroke-width="2" stroke-linecap="round"/>
+
+  <g transform="translate(24 101)">
+    <circle cx="8" cy="8" r="8" fill="#7DD3FC" fill-opacity="0.2"/>
+    <circle cx="8" cy="8" r="3" fill="#7DD3FC"/>
+    <text x="26" y="13" fill="#D8F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="14">Public repos</text>
+    <text x="150" y="13" fill="#F8FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">2</text>
+  </g>
+
+  <g transform="translate(224 55)">
+    <circle cx="8" cy="8" r="8" fill="#A7F3D0" fill-opacity="0.2"/>
+    <circle cx="8" cy="8" r="3" fill="#A7F3D0"/>
+    <text x="26" y="13" fill="#D8F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="14">Featured work</text>
+    <text x="26" y="36" fill="#F8FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">TeamLifeBind</text>
+  </g>
+
+  <g transform="translate(224 112)">
+    <circle cx="8" cy="8" r="8" fill="#C4B5FD" fill-opacity="0.2"/>
+    <circle cx="8" cy="8" r="3" fill="#C4B5FD"/>
+    <text x="26" y="13" fill="#D8F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="14">Focus</text>
+    <text x="26" y="36" fill="#F8FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Gameplay systems</text>
+  </g>
+</svg>
