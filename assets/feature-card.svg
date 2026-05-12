@@ -1,0 +1,53 @@
+<svg width="720" height="220" viewBox="0 0 720 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">TeamLifeBind featured project card</title>
+  <desc id="desc">A stable local SVG project card for the FOXLeaves GitHub profile.</desc>
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="720" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0F2A45"/>
+      <stop offset="1" stop-color="#132F55"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="38" y1="24" x2="650" y2="204" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="0.55" stop-color="#A7F3D0"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <linearGradient id="soft" x1="120" y1="26" x2="670" y2="194" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0F2FE" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#93C5FD" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="720" height="220" rx="18" fill="url(#cardBg)"/>
+  <rect x="1" y="1" width="718" height="218" rx="17" stroke="#BAE6FD" stroke-opacity="0.18"/>
+  <path d="M0 172C96 132 164 138 244 165C344 199 455 198 548 163C619 136 673 132 720 148V220H0V172Z" fill="url(#soft)"/>
+  <path d="M42 170H370" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  <circle cx="386" cy="170" r="4" fill="#A7F3D0" opacity="0.75"/>
+
+  <text x="36" y="45" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">FEATURED PROJECT</text>
+  <text x="34" y="91" fill="#F8FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">TeamLifeBind</text>
+  <text x="36" y="126" fill="#D8F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="18">A Minecraft plugin where teammates share one fate.</text>
+  <text x="36" y="153" fill="#A9CBE8" font-family="Segoe UI, Arial, sans-serif" font-size="16">One death can decide the whole run.</text>
+
+  <g transform="translate(36 178)">
+    <rect width="88" height="28" rx="14" fill="#0B1F35" stroke="#7DD3FC" stroke-opacity="0.35"/>
+    <text x="44" y="19" text-anchor="middle" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Java</text>
+  </g>
+  <g transform="translate(136 178)">
+    <rect width="118" height="28" rx="14" fill="#0B1F35" stroke="#A7F3D0" stroke-opacity="0.35"/>
+    <text x="59" y="19" text-anchor="middle" fill="#EAFBF4" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Minecraft</text>
+  </g>
+  <g transform="translate(266 178)">
+    <rect width="128" height="28" rx="14" fill="#0B1F35" stroke="#C4B5FD" stroke-opacity="0.35"/>
+    <text x="64" y="19" text-anchor="middle" fill="#F1EEFF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Team Systems</text>
+  </g>
+
+  <g transform="translate(520 42)">
+    <rect x="34" y="20" width="108" height="108" rx="26" fill="#0B1F35" stroke="#BAE6FD" stroke-opacity="0.18"/>
+    <path d="M88 34L129 58V106L88 130L47 106V58L88 34Z" stroke="url(#accent)" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M88 55L111 68V95L88 108L65 95V68L88 55Z" fill="#7DD3FC" fill-opacity="0.14" stroke="#E0F2FE" stroke-opacity="0.65" stroke-width="2"/>
+    <circle cx="88" cy="82" r="7" fill="#A7F3D0"/>
+    <path d="M47 58L88 82L129 58" stroke="#D8F3FF" stroke-opacity="0.45" stroke-width="2"/>
+    <path d="M88 82V130" stroke="#D8F3FF" stroke-opacity="0.4" stroke-width="2"/>
+  </g>
+</svg>
