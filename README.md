@@ -22,26 +22,28 @@
 <p align="center">
   <a href="https://github.com/FOXLeaves/TeamLifeBind">
     <img
-      alt="TeamLifeBind repo card"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=FOXLeaves&repo=TeamLifeBind&theme=github_dark_dimmed&hide_border=true"
+      alt="TeamLifeBind project card"
+      src="./assets/feature-card.svg"
+      width="720"
     />
   </a>
 </p>
 
 - 这是一个更有戏剧张力的 Minecraft 玩法和系统。
 
-## GitHub 数据 / Stats
+## GitHub 数据 / Stable Highlights
 
+<!-- Local SVG cards keep the profile stable when third-party stats APIs are unavailable. -->
 <p align="center">
   <img
-    alt="GitHub stats"
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=FOXLeaves&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github"
+    alt="Profile highlights"
+    src="./assets/profile-stats.svg"
+    width="410"
   />
   <img
-    alt="Top languages"
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOXLeaves&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8"
+    alt="Language and focus highlights"
+    src="./assets/language-focus.svg"
+    width="410"
   />
 </p>
 
