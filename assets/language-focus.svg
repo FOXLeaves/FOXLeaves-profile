@@ -1,0 +1,40 @@
+<svg width="420" height="170" viewBox="0 0 420 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">FOXLeaves language and focus card</title>
+  <desc id="desc">A local SVG card listing the main technology focus areas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="420" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#132F55"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="310" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="0.55" stop-color="#A7F3D0"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="420" height="170" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="418" height="168" rx="15" stroke="#BAE6FD" stroke-opacity="0.18"/>
+  <path d="M292 0H420V170H236C276 132 296 82 292 0Z" fill="#C4B5FD" fill-opacity="0.08"/>
+
+  <text x="24" y="34" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">LANGUAGE FOCUS</text>
+  <text x="24" y="66" fill="#F8FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Code Palette</text>
+
+  <g transform="translate(24 88)">
+    <text x="0" y="13" fill="#D8F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Java</text>
+    <rect x="84" y="3" width="268" height="12" rx="6" fill="#0B1F35"/>
+    <rect x="84" y="3" width="232" height="12" rx="6" fill="url(#bar)"/>
+  </g>
+
+  <g transform="translate(24 113)">
+    <text x="0" y="13" fill="#D8F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Lua</text>
+    <rect x="84" y="3" width="268" height="12" rx="6" fill="#0B1F35"/>
+    <rect x="84" y="3" width="136" height="12" rx="6" fill="#7DD3FC" fill-opacity="0.75"/>
+  </g>
+
+  <g transform="translate(24 138)">
+    <text x="0" y="13" fill="#D8F3FF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Web UI</text>
+    <rect x="84" y="3" width="268" height="12" rx="6" fill="#0B1F35"/>
+    <rect x="84" y="3" width="108" height="12" rx="6" fill="#A7F3D0" fill-opacity="0.75"/>
+  </g>
+</svg>
